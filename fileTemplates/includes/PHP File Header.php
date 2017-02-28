@@ -1,0 +1,5 @@
+/*
+ * Newcraft
+ *
+ * All Rights Reserved.
+ */

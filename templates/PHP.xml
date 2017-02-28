@@ -1,0 +1,49 @@
+<templateSet group="PHP">
+  <template name="wrapq" value="&quot;$SELECTION$&quot;" description="Wrap string with quote" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dowhile" value="$ITERABLE$ = 0;&#10;do {&#10;    $END$;&#10;} while ($ITERABLE$ &gt; $$$VAR_VALUE$);&#10;" description="Insert a standard do while" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="0" alwaysStopAt="true" />
+    <variable name="ITERABLE" expression="" defaultValue="$i" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="swica" value="switch ($ITERABLE$) {&#10;    &#10;    case $$$VAR_VALUE$:&#10;        $END$;&#10;        break;&#10;    &#10;    default:&#10;        //insert default&#10;}" description="Insert a standard switch case" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wrapb" value="($SELECTION$)" description="Wrap selected code with bracket" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wrapc" value="{&#10;    $SELECTION$    &#10;}" description="Wrap selected code with curly brace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vdd" value="var_dump($END$);&#10;die();" description="Var dump die" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cd" value="die(__FILE__ . ':::' . __LINE__);" description="Die with information" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="var_dump($END$);" description="var dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
