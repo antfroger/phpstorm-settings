@@ -1,5 +1,7 @@
 <application>
   <component name="FindSettings">
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,8 +14,8 @@
       <mask>*.twig</mask>
       <mask>*.less</mask>
       <mask>*.yml</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
