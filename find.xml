@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,8 +16,17 @@
       <mask>*.twig</mask>
       <mask>*.less</mask>
       <mask>*.yml</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffeee</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
