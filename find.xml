@@ -15,17 +15,18 @@
       <mask>*.twig</mask>
       <mask>*.less</mask>
       <mask>*.yml</mask>
-      <mask>*.j</mask>
       <mask>*.coffeee</mask>
-      <mask>*.php</mask>
       <mask>*.coffee</mask>
       <mask>*.coffe</mask>
       <mask>*.coff</mask>
       <mask>*.cof</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
