@@ -10,13 +10,27 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.twig</mask>
       <mask>*.less</mask>
       <mask>*.yml</mask>
-      <mask>*.js</mask>
+      <mask>*.coffeee</mask>
+      <mask>*.coffee</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coff</mask>
+      <mask>*.cof</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
+      <mask>*.j</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
