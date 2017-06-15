@@ -22,6 +22,7 @@
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping pattern="identity" type="YAML" />
     </extensionMap>
   </component>
