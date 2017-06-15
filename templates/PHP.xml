@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="cd" value="die(__FILE__ . ':::' . __LINE__);" description="Cool die" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
