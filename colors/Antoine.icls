@@ -1,9 +1,12 @@
 <scheme name="Antoine" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-08-01T14:03:59</property>
+    <property name="created">2017-08-05T20:29:38</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-08-01T14:04:01</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-08-05T20:31:09</property>
+    <property name="originalScheme">Darcula copy</property>
   </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
 </scheme>
