@@ -1,6 +1,11 @@
-<code_scheme name="EcoChain">
+<code_scheme name="EcoChain" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  <option name="SOFT_MARGINS" value="80,120" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
