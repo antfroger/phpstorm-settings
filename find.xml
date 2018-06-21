@@ -3,39 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.less</mask>
-      <mask>*.yml</mask>
-      <mask>*.coffeee</mask>
-      <mask>*.coffee</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coff</mask>
-      <mask>*.cof</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
-      <mask>*.ph</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.html*</mask>
-    </recentFileMasks>
   </component>
 </application>
