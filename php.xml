@@ -1,18 +1,14 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
+    <phpmd_settings_migrated />
   </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@dev.data-collector.com:22/usr/bin/php" id="5e69e8e4-f279-4008-8c2e-6230397a3481" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="dev.data-collector.com" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/Projects/nci-data-collector/.vagrant/machines/sandbox/virtualbox/private_key" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="dev.data-collector.com" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="$USER_HOME$/Projects/nci-data-collector/.vagrant/machines/sandbox/virtualbox/private_key" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
